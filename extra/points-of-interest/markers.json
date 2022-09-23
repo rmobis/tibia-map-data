@@ -225,6 +225,13 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33047,
+		"y": 31101,
+		"z": 2
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33187,
 		"y": 31795,
@@ -386,6 +393,20 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33031,
+		"y": 31213,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33043,
+		"y": 31170,
+		"z": 3
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33055,
 		"y": 32720,
@@ -403,6 +424,13 @@
 		"icon": "flag",
 		"x": 33080,
 		"y": 32169,
+		"z": 3
+	},
+	{
+		"description": "Tome of Knowledge",
+		"icon": "star",
+		"x": 33154,
+		"y": 31298,
 		"z": 3
 	},
 	{
@@ -907,6 +935,13 @@
 		"icon": "flag",
 		"x": 33078,
 		"y": 32689,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33084,
+		"y": 31115,
 		"z": 4
 	},
 	{
@@ -1698,6 +1733,20 @@
 		"icon": "crossmark",
 		"x": 33129,
 		"y": 32563,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33173,
+		"y": 31305,
+		"z": 5
+	},
+	{
+		"description": "To New Frontier Quest area and Ghastly Dragon Palace",
+		"icon": "down",
+		"x": 33176,
+		"y": 31298,
 		"z": 5
 	},
 	{
@@ -3080,6 +3129,13 @@
 		"z": 6
 	},
 	{
+	"description": "",
+		"icon": "down",
+		"x": 33074,
+		"y": 31107,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33077,
@@ -3200,6 +3256,20 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33188,
+		"y": 31040,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33193,
+		"y": 31041,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33200,
 		"y": 32460,
@@ -3287,6 +3357,13 @@
 		"icon": "flag",
 		"x": 33295,
 		"y": 32481,
+		"z": 6
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33325,
+		"y": 31094,
 		"z": 6
 	},
 	{
@@ -10060,6 +10137,13 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33029,
+		"y": 31160,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33029,
 		"y": 32024,
@@ -10112,6 +10196,13 @@
 		"icon": "up",
 		"x": 33033,
 		"y": 32046,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33034,
+		"y": 31126,
 		"z": 7
 	},
 	{
@@ -10297,6 +10388,13 @@
 		"z": 7
 	},
 	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33055,
+		"y": 32480,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33056,
@@ -10452,6 +10550,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33074,
+		"y": 31107,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33074,
 		"y": 32171,
@@ -10490,6 +10595,13 @@
 		"icon": "flag",
 		"x": 33080,
 		"y": 32392,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33082,
+		"y": 31264,
 		"z": 7
 	},
 	{
@@ -10690,6 +10802,13 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33110,
+		"y": 31212,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33110,
 		"y": 31806,
@@ -10781,6 +10900,20 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33122,
+		"y": 31125,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33123,
+		"y": 31109,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33123,
 		"y": 31790,
@@ -10830,6 +10963,13 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33135,
+		"y": 31184,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33136,
 		"y": 31698,
@@ -10857,6 +10997,13 @@
 		"z": 7
 	},
 	{
+		"description": "To South Zao",
+		"icon": "red up",
+		"x": 33145,
+		"y": 31249,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33146,
@@ -10871,10 +11018,24 @@
 		"z": 7
 	},
 	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33149,
+		"y": 31310,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33150,
 		"y": 32377,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33151,
+		"y": 31066,
 		"z": 7
 	},
 	{
@@ -10976,6 +11137,13 @@
 		"z": 7
 	},
 	{
+		"description": "Dragon Lair",
+		"icon": "up",
+		"x": 33166,
+		"y": 31329,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33166,
@@ -10984,9 +11152,23 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33167,
+		"y": 31043,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33170,
 		"y": 32462,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33173,
+		"y": 31075,
 		"z": 7
 	},
 	{
@@ -11001,6 +11183,13 @@
 		"icon": "flag",
 		"x": 33174,
 		"y": 31826,
+		"z": 7
+	},
+	{
+		"description": "New Frontier Quest area and Ghastly Dragon Palace",
+		"icon": "up",
+		"x": 33175,
+		"y": 31305,
 		"z": 7
 	},
 	{
@@ -11110,6 +11299,20 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33185,
+		"y": 31120,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33187,
+		"y": 31133,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33187,
 		"y": 31661,
@@ -11193,6 +11396,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Northern Zao",
+		"icon": "red up",
+		"x": 33197,
+		"y": 31348,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33197,
@@ -11222,9 +11432,23 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33199,
+		"y": 31097,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33200,
 		"y": 31649,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33201,
+		"y": 31119,
 		"z": 7
 	},
 	{
@@ -11267,6 +11491,13 @@
 		"icon": "crossmark",
 		"x": 33205,
 		"y": 32543,
+		"z": 7
+	},
+	{
+		"description": "Dragon Lair",
+		"icon": "up",
+		"x": 33207,
+		"y": 31324,
 		"z": 7
 	},
 	{
@@ -11372,6 +11603,13 @@
 		"icon": "flag",
 		"x": 33217,
 		"y": 32287,
+		"z": 7
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33218,
+		"y": 32520,
 		"z": 7
 	},
 	{
@@ -11515,6 +11753,13 @@
 		"z": 7
 	},
 	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33241,
+		"y": 32368,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33241,
@@ -11533,6 +11778,13 @@
 		"icon": "flag",
 		"x": 33241,
 		"y": 32477,
+		"z": 7
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33242,
+		"y": 32276,
 		"z": 7
 	},
 	{
@@ -11806,6 +12058,13 @@
 		"icon": "flag",
 		"x": 33277,
 		"y": 31812,
+		"z": 7
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33279,
+		"y": 31337,
 		"z": 7
 	},
 	{
@@ -15912,9 +16171,23 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33173,
+		"y": 31075,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33190,
 		"y": 31664,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33202,
+		"y": 31059,
 		"z": 8
 	},
 	{
@@ -17431,6 +17704,41 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33168,
+		"y": 31291,
+		"z": 9
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33168,
+		"y": 31293,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33182,
+		"y": 31287,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33202,
+		"y": 31059,
+		"z": 9
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33222,
+		"y": 31050,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33270,
 		"y": 32474,
@@ -17914,9 +18222,58 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33143,
+		"y": 31263,
+		"z": 10
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33148,
+		"y": 31258,
+		"z": 10
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33160,
+		"y": 31281,
+		"z": 10
+	},
+	{
+		"description": "Tome of Knowledge",
+		"icon": "star",
+		"x": 33162,
+		"y": 31257,
+		"z": 10
+	},
+	{
+		"description": "To Ghastly Dragon Palace",
+		"icon": "red left",
+		"x": 33162,
+		"y": 31264,
+		"z": 10
+	},
+	{
+		"description": "Wrath of the Emperor Quest area",
+		"icon": "red down",
+		"x": 33162,
+		"y": 31289,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33166,
 		"y": 31919,
+		"z": 10
+	},
+	{
+		"description": "New Frontier Quest",
+		"icon": "red up",
+		"x": 33171,
+		"y": 31261,
 		"z": 10
 	},
 	{
@@ -17928,9 +18285,23 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33182,
+		"y": 31287,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33197,
 		"y": 31915,
+		"z": 10
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33252,
+		"y": 31058,
 		"z": 10
 	},
 	{
@@ -18439,6 +18810,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33123,
+		"y": 31254,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33133,
 		"y": 31796,
@@ -18453,9 +18831,30 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33142,
+		"y": 31262,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33163,
 		"y": 31920,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33186,
+		"y": 31215,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33197,
+		"y": 31182,
 		"z": 11
 	},
 	{
@@ -18768,6 +19167,48 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33123,
+		"y": 31253,
+		"z": 12
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33155,
+		"y": 31215,
+		"z": 12
+	},
+	{
+		"description": "To Ghastly Dragons",
+		"icon": "down",
+		"x": 33160,
+		"y": 31171,
+		"z": 12
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33160,
+		"y": 31213,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33185,
+		"y": 31215,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33197,
+		"y": 31181,
+		"z": 12
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33274,
 		"y": 32421,
@@ -18902,8 +19343,29 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33156,
+		"y": 31169,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32430,
 		"y": 32009,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33156,
+		"y": 31181,
+		"z": 15
+	},
+	{
+		"description": "Tome of Knowledge",
+		"icon": "star",
+		"x": 33157,
+		"y": 31228,
 		"z": 15
 	},
 	{
